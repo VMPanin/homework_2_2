@@ -1,0 +1,62 @@
+{
+  "салат из кальмаров": [
+    {
+      "ingridient_name": "кальмары",
+      "quantity": 100,
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "майонез",
+      "quantity": 20,
+      "measure": "мл"
+    },
+    {
+      "ingridient_name": "зелень",
+      "quantity": 10,
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "яйца",
+      "quantity": 1,
+      "measure": "шт"
+    }
+  ],
+  "стейк": [
+    {
+      "ingridient_name": "говядина",
+      "quantity": 300,
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "специи",
+      "quantity": 20,
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "масло",
+      "quantity": 30,
+      "measure": "мл"
+    }
+  ],
+  "пельмени": [
+    {
+      "ingridient_name": "тесто",
+      "quantity": 200,
+      "measure": "гр"
+    },
+    {"ingridient_name": "говядина",
+      "quantity": 100,
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "зелень",
+      "quantity": 10,
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "майонез",
+      "quantity": 50,
+      "measure": "мл"
+    }
+  ]
+}
